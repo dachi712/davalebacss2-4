@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#maindiv {
+    margin: 156px 260px 0 260px;
+}
+
+#image {
+    width: 100%;
+}
+
+#launchDiv {
+    margin: 0 auto;
+    margin-top: 116px;
+    padding: 40px 32px;
+    max-width: 1137px;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 64px;
+}
+
+#building {
+    padding-top: 24px;
+    font-size: 32px;
+    color: #535862;
+
+}
+
+#emailinput {
+    padding: 8px 14px;
+    font-size: 16px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+    width: 100%;
+    height: 48px;
+
+}
+
+#inputDiv {
+    padding-top: 24px;
+    text-align: center;
+
+}
+
+#maildiv {
+    display: inline-block;
+    width: 345px;
+    text-align: center;
+}
+
+#careP {
+    padding-top: 8px;
+    text-align: left;
+    font-size: 14px;
+    color: #535862;
+}
+
+a {
+    color: #535862;
+}
+
+#inputsub {
+    display: inline-block;
+    padding-left: 24px;
+    vertical-align: top;
+}
+
+#subscribe {
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: #007CB8;
+    color: white;
+    border: 2px solid #FFF;
+}
+
+#submitFormDiv {
+    padding: 40px 32px;
+    margin: 0 auto;
+    margin-top: 115px;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+    max-width: 546px;
+}
+
+h3 {
+    font-size: 40px;
+    padding-bottom: 24px;
+}
+
+#fullname {
+    font-size: 14px;
+    color: #1B003D;
+    padding-bottom: 8px;
+    display: block;
+}
+
+#inputName {
+    padding: 8px 16px;
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    font-size: 14px;
+    color: #6D5F8B;
+
+}
+#email{
+    display: block;
+    font-size: 14px;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    color: #1B003D;
+}
+#emailinputt{
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 100%;
+    height: 48px;
+    margin-bottom: 24px;
+}
+#recomment{
+    display: block;
+    color: #1B003D;
+}
+#firstYesDiv{
+    color: #6D5F8B;
+    padding-bottom: 16px; 
+    font-size: 14px;
+    padding-top: 10px;
+}
+#secondYesDiv{
+    color: #6D5F8B;
+    padding-bottom: 16px;
+    font-size: 14px;
+}
+#thirdYesDiv{
+    color: #6D5F8B;
+    padding-bottom: 16px;
+    font-size: 14px;
+}
+#cDiv{
+    padding-top: 10px;
+    color: #6D5F8B;
+    padding-top: 16px;
+
+}
+#cplusDiv{
+    color: #6D5F8B;
+    padding-top: 16px;
+}
+#javaDiv{
+    color: #6D5F8B;
+    padding-top: 16px;
+}
+#pythonDiv{
+    color: #6D5F8B;
+    padding-top: 16px;
+}
